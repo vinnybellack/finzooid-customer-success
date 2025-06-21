@@ -3,9 +3,9 @@
 This project showcases the real-world work I did at Finzooid as a Customer Relations Manager. I focused on improving customer retention, satisfaction, and operational efficiency through strategic use of data, dashboards, GenAI tools, and marketing support initiatives.
 
 ## 🧰 Tools & Technologies Used
-- **Power BI** – Built custom dashboards for usage, satisfaction, and churn analysis
-- **ChatGPT** – Summarized customer feedback, drafted engagement content
-- **Buffer** – Scheduled and tracked LinkedIn posts
+- **Power BI** – Built custom dashboards for usage, satisfaction, and churn analysis (https://drive.google.com/file/d/12vfqBLqAT8TOF2yQUttM_67uWIOHQN3r/view?usp=drive_link)
+- **ChatGPT** – Summarized customer feedback, drafted engagement content (https://drive.google.com/file/d/1-zAl4VlEdILyFhobHkWNBSpMpyDjvLzV/view?usp=drive_link)
+- **Buffer** – Scheduled and tracked LinkedIn posts(https://docs.google.com/spreadsheets/d/1xlpFH9tcDk8Dw61iY9KkYFWia8ct4vjt/edit?usp=drive_link&ouid=100872368629951581486&rtpof=true&sd=true)
 - **SQL** – Ran reports on usage trends and customer behavior
 - **Excel / Google Sheets** – KPI tracking and campaign planning
 
@@ -17,7 +17,7 @@ This project showcases the real-world work I did at Finzooid as a Customer Relat
 
 ## 📂 Repository Structure
 See folders for:
-- `dashboards`: Sample Power BI files and dashboard PDFs
+- `dashboards`: Sample Power BI files and dashboard PDFs 
 - `genai-examples`: Prompts and outputs using ChatGPT for customer engagement
 - `sql-queries`: Sample queries used to analyze customer trends
 - `marketing-support`: Content calendars and campaign files
