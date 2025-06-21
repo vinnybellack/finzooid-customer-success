@@ -17,7 +17,7 @@ This project showcases the real-world work I did at Finzooid as a Customer Relat
 
 ## 📂 Repository Structure
 See folders for:
-- `dashboards`: Sample Power BI files and dashboard PDFs (https://drive.google.com/file/d/12vfqBLqAT8TOF2yQUttM_67uWIOHQN3r/view?usp=drive_link)
+- `dashboards`: Sample Power BI files and dashboard PDFs [View On Drive](https://drive.google.com/file/d/12vfqBLqAT8TOF2yQUttM_67uWIOHQN3r/view?usp=drive_link)
 - `genai-examples`: Prompts and outputs using ChatGPT for customer engagement (https://drive.google.com/file/d/1-zAl4VlEdILyFhobHkWNBSpMpyDjvLzV/view?usp=drive_link)
 - `sql-queries`: Sample queries used to analyze customer trends
 - `marketing-support`: Content calendars and campaign files (https://docs.google.com/spreadsheets/d/1xlpFH9tcDk8Dw61iY9KkYFWia8ct4vjt/edit?usp=drive_link&ouid=100872368629951581486&rtpof=true&sd=true)
