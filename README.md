@@ -1,5 +1,5 @@
 # Customer Success & Analytics Automation – Finzooid (2019–2022)
-![Image](https://github.com/user-attachments/assets/4c9776b6-ea0c-4014-b4b4-878fb4e2c7d4)
+
 
 This project showcases the real-world work I did at Finzooid as a Customer Relations Manager. I focused on improving customer retention, satisfaction, and operational efficiency through strategic use of data, dashboards, GenAI tools, and marketing support initiatives.
 
