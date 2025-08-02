@@ -18,10 +18,10 @@ This project showcases the real-world work I did at Finzooid as a Customer Relat
 
 ## 📂 Repository Structure
 See folders for:
-- `dashboards`: Sample Power BI files and dashboard PDFs [View On Drive](https://drive.google.com/file/d/12vfqBLqAT8TOF2yQUttM_67uWIOHQN3r/view?usp=drive_link)
-- `genai-examples`: Prompts and outputs using ChatGPT for customer engagement [View On Drive](https://drive.google.com/file/d/1-zAl4VlEdILyFhobHkWNBSpMpyDjvLzV/view?usp=drive_link)
-- `sql-queries`: Sample queries used to analyze customer trends[View On Drive](https://docs.google.com/document/d/1HhABZ7eOLgT-rYnp-BNXVtF1h_aDfS0eXMjKtAI1T7c/edit?usp=sharing))
-- `marketing-support`: Content calendars and campaign files [View On Drive](https://docs.google.com/spreadsheets/d/1xlpFH9tcDk8Dw61iY9KkYFWia8ct4vjt/edit?usp=drive_link&ouid=100872368629951581486&rtpof=true&sd=true)
-- `reports`: Templates and decks used in client reporting [View On Drive](https://docs.google.com/document/d/1mHIHRbEmmDy2U83w6qIvL777Gs1yzbpp/edit?usp=sharing&ouid=100872368629951581486&rtpof=true&sd=true)
+- `dashboards`: Sample Power BI files and dashboard PDFs [powerbi_dashboard_sample.pdf](https://github.com/user-attachments/files/21556571/powerbi_dashboard_sample.pdf)
+- `genai-examples`: Prompts and outputs using ChatGPT for customer engagement [feedback_prompt.pdf](https://github.com/user-attachments/files/21556573/feedback_prompt.pdf)
+- `sql-queries`: Sample queries used to analyze customer trends[Customer Usage Trend Analysis.pdf](https://github.com/user-attachments/files/21556575/Customer.Usage.Trend.Analysis.pdf)
+- `marketing-support`: Content calendars and campaign files [content_schedule_buffer.xlsx](https://github.com/user-attachments/files/21556576/content_schedule_buffer.xlsx)
+- `reports`: Templates and decks used in client reporting [monthly-client-health-report-template.docx.pdf](https://github.com/user-attachments/files/21556589/monthly-client-health-report-template.docx.pdf)
 
 > **Disclaimer**: No proprietary or sensitive client data is shared. All files are anonymized and recreated for demo purposes.
